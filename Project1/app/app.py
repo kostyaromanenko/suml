@@ -1,7 +1,7 @@
 import streamlit as st
 from predict import predict
 
-st.title("Iris Flower Classifier")
+st.title("TEST")
 st.write("Enter the flower measurements")
 
 sepal_length = st.number_input("Sepal length (cm)", 0.0, 10.0, 5.1)
